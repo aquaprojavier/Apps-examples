@@ -1,4 +1,4 @@
-WaziApp examples
+App examples
 ================
 
 This folder contains several examples of Waziup applications.   
